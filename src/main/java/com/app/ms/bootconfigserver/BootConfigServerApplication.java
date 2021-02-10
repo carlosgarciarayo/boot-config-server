@@ -10,6 +10,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 public class BootConfigServerApplication {
 
 	public static void main(String[] args) {
+		//coment
 		SpringApplication.run(BootConfigServerApplication.class, args);
 	}
 
